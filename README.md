@@ -76,6 +76,69 @@ Els principis d’aprenentatge emprats són:
 
 - **Emoció i Aprenentatge**: Les emocions influeixen significativament en el procés d'aprenentatge; un entorn segur, estimulant i que promogui una mentalitat de creixement facilita l'aprenentatge, mentre que l'estrès o la por poden inhibir-lo.
 
-### Ús de la llengua anglesa ###
+### Ús de la llengua anglesa
 
 Dins el mòdul a més de la consulta de materials en llengua anglesa, part de les tasques de documentació també es realitzen en aquest idioma.
+
+## AVALUACIÓ I QUALIFICACIÓ DEL MP
+
+El sistema d’avaluació d’aquest Mòdul Professional pretén valorar el grau d’assoliment de les competències establertes a través dels resultats d’aprenentatge que es recullen en el currículum del cicle formatiu. 
+
+Durant el curs es durà a terme l’avaluació continuada de l’aprenentatge de cada alumne per cada resultat d’aprenentatge. Amb aquesta avaluació els professors disposaran de la informació del progrés i l’evolució del procés de d’aprenentatge de l’alumnat. 
+
+### Avaluació inicial
+
+Es farà una **avaluació inicial**  o diagnòstica al començament del curs amb la finalitat d'obtenir informació bàsica del grup/classe en capacitats cognitives específiques relacionada amb el MP, habilitats, hàbits d’estudi i de treball, destreses intel·lectuals i la situació personal de cadascú.  
+
+Aquesta avaluació inicial no serà necessàriament una prova, segons el grup es pot fer mitjançant activitats en grup, debat grup classe o durant la presentació dels diferents temes.
+
+### Avaluació formativa
+
+Per a superar el mòdul professional cal superar tots els resultats d’aprenentatge que conté, tot considerant la ponderació assignada a cada un d’ells. Aquest mòdul té hores assignades a l’estada a l’empresa, per tant, la nota de l’estada s’incorpora a l’avaluació del mòdul amb un pes del 10%.
+
+> QMP \= 0,15 QRA1 \+ 0,15 QRA2 \+ 0,20 QRA3 \+ 0,20 RA4 \+ 0,10 RA5 \+ 0,10 RA6  \+ 0,10 EM
+
+### Avaluació sumativa
+
+L’avaluació del mòdul serà continua, es valorarà conjuntament el rendiment de l’alumne al llarg de totes les activitats d’aprenentatge que es realitzin en el desenvolupament del mòdul. L’alumne s’avaluarà tenint en compte el nivell de coneixements adquirits respecte els resultats d’aprenentatge i els objectius marcats a l’inici del curs.
+
+#### CRITERIS DE RECUPERACIÓ
+
+Durant el curs s’aniran establint activitats o proves de recuperació tornant de Nadal i de Setmana Santa per aquelles unitats d’aprenentatge que l’alumnat no hagi superat.
+
+L’alumnat que al final de l’avaluació continuada no hagi superat la totalitat dels resultats d’aprenentatge s’haurà de presentar a segona convocatòria, on haurà de lliurar unes activitats prèvies i realitzar proves escrites lligades als RA suspesos.
+
+Aquell alumnat que hagi superat el límit de faltes d’assistència, haurà de realitzar la totalitat de les proves per superar tots els resultats d’aprenentatge del mòdul.
+
+#### ATENCIÓ A LA DIVERSITAT
+
+Es considera la diversitat com un valor afegit que comporta centrar l'atenció en reduir o eliminar les barreres per a l'aprenentatge i la participació. En aquest mòdul professional  tots els alumnes han de participar de la vida de l’aula. L'organització de l’assignatura prioritza l'atenció a la diversitat oferint els ajuts i els suports necessaris (\*) que facilitin l'accés als aprenentatges i el domini de  les competències bàsiques a tots i totes.
+
+(\*) Entenem per suport totes les activitats que augmentin la capacitat de l’alumne per assolir les competències bàsiques. Els suports poden tenir característiques ben diverses i l’única condició important és que resultin eficaços per a l’objectiu perseguit. Per exemple:
+
+- Planificar les unitats didàctiques tenint en compte tot l’alumnat i dissenyar les activitats d'aprenentatge amb el propòsit de propiciar la participació de tothom.  
+- Reconèixer que els estudiants disposen de diferents coneixements previs, de diferents experiències i estils d’aprenentatge.  
+- Dur a terme una bona gestió d'aula on l’alumnat s’ajuda mútuament.
+
+Tot i que l’avaluació serà inicialment igual per tot l’alumnat es tindran en compte les adaptacions de forma que s’estableixen en els diferents protocols elaborats pel servei psicopedagògic. Serà la responsable d’aquest servei que marcarà a quins alumnes hem d’aplicar un determinat protocol després de valorar individualment cada cas.
+
+En aquests casos, malgrat les adaptacions de forma en proves, treballs i activitats els alumnes seguiran el ritme normal del curs igual que la resta de companys que no requereixin adaptació.
+
+#### AVALUACIÓ DE COMPETÈNCIES PROFESSIONALS, PERSONALS I SOCIALS
+
+#### ASSISTÈNCIA A CLASSE
+
+L’assistència a les classes és obligatòria. Si l’alumne no assisteix a un mínim del 80% de les hores lectives de cada unitat formativa suspèn automàticament l’avaluació continuada i s’haurà de presentar a la 2a convocatòria de tota la unitat formativa (convocatòria prevista pel mes de juny).
+
+## ESPAIS, EQUIPAMENTS I RECURSOS DEL MP
+
+Les classes s’imparteixen de forma preferent a l’aula del grup que disposa d’un projector per la visualització de presentacions, vídeos, etc. Així com d’un ordinador per cadascun dels alumnes, aquest ordinador disposa de connexió a la xarxa local i a Internet. A més els equips informàtics tenen instal·lat Oracle Virtualbox per tal que l’alumnat pugui crear màquines virtuals dels diferents sistemes requerits.
+
+A la intranet hi ha una carpeta de recursos compartits on l’alumnat es pot descarregar les ISO dels sistemes operatius a usar durant el curs, així com eines específiques i arxius necessaris per a la realització de les tasques.
+El material bàsic és d’elaboració per part del professorat de l’assignatura i està disponible al Moodle i GitHub. Així mateix es recomanen les següents fonts documentals:
+
+- BOYCE, G. Linux Networking Cookbook [ebook]. Birmingham: Packt Pub, 2016.
+- STANEK, W.R. Windows Server 2012 Pocket Consultant. Microsoft Press, 2012.
+- ALI, Syed. Practical Linux Infrastructure. Apress, 2015.
+- ALONSO, C. Way to IT [Blog]. Disponible a: <https://waytoit.wordpress.com/>
+- RUIZ, P. Sistemas Operativos en Red [ebook]. Disponible a: <https://somebooks.es/sistemas-operativos-red-2a-edicion/>
