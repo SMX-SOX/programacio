@@ -82,9 +82,9 @@ Dins el mòdul a més de la consulta de materials en llengua anglesa, part de le
 
 ## AVALUACIÓ I QUALIFICACIÓ DEL MP
 
-El sistema d’avaluació d’aquest Mòdul Professional pretén valorar el grau d’assoliment de les competències establertes a través dels resultats d’aprenentatge que es recullen en el currículum del cicle formatiu. 
+El sistema d’avaluació d’aquest Mòdul Professional pretén valorar el grau d’assoliment de les competències establertes a través dels resultats d’aprenentatge que es recullen en el currículum del cicle formatiu.
 
-Durant el curs es durà a terme l’avaluació continuada de l’aprenentatge de cada alumne per cada resultat d’aprenentatge. Amb aquesta avaluació els professors disposaran de la informació del progrés i l’evolució del procés de d’aprenentatge de l’alumnat. 
+Durant el curs es durà a terme l’avaluació continuada de l’aprenentatge de cada alumne per cada resultat d’aprenentatge. Amb aquesta avaluació els professors disposaran de la informació del progrés i l’evolució del procés de d’aprenentatge de l’alumnat.
 
 ### Avaluació inicial
 
@@ -110,6 +110,12 @@ L’alumnat que al final de l’avaluació continuada no hagi superat la totalit
 
 Aquell alumnat que hagi superat el límit de faltes d’assistència, haurà de realitzar la totalitat de les proves per superar tots els resultats d’aprenentatge del mòdul.
 
+### AVALUACIÓ EN 2a CONVOCATÒRIA
+
+El procés d’avaluació en segona convocatòria treballa per RAs i és global, sense tenir en compte les notes d’observació (Obs) ni les puntuacions que l’estudiant hagi pogut obtenir durant l’avaluació ordinària (i contínua). Cada RA s’avaluarà amb un únic examen que recollirà tots els seus CAs i permetrà demostrar als estudiants que s’han treballat els Cs i, per tant, s’han assolit els RAs.
+
+La fórmula per a calcular la nota del MP serà la mateixa que es fa servir dins l’avaluació ordinària.
+
 #### ATENCIÓ A LA DIVERSITAT
 
 Es considera la diversitat com un valor afegit que comporta centrar l'atenció en reduir o eliminar les barreres per a l'aprenentatge i la participació. En aquest mòdul professional  tots els alumnes han de participar de la vida de l’aula. L'organització de l’assignatura prioritza l'atenció a la diversitat oferint els ajuts i els suports necessaris (\*) que facilitin l'accés als aprenentatges i el domini de  les competències bàsiques a tots i totes.
@@ -129,6 +135,126 @@ En aquests casos, malgrat les adaptacions de forma en proves, treballs i activit
 #### ASSISTÈNCIA A CLASSE
 
 L’assistència a les classes és obligatòria. Si l’alumne no assisteix a un mínim del 80% de les hores lectives de cada unitat formativa suspèn automàticament l’avaluació continuada i s’haurà de presentar a la 2a convocatòria de tota la unitat formativa (convocatòria prevista pel mes de juny).
+
+## CURRÍCULUM DEL MÒDUL PROFESSIONAL
+
+### Resultats d’aprenentatge i criteris d’avaluació
+
+1. Instal·la sistemes operatius en xarxa descrivint-ne les característiques i interpretant-ne la documentació tècnica.
+
+**Criteris d'avaluació**
+
+1. Realitza l'estudi de compatibilitat del sistema informàtic.
+2. Diferencia els modes d'instal·lació.
+3. Planificat i realitza el particionat del disc del servidor.
+4. Selecciona i aplica els sistemes d'arxius.
+5. Selecciona els components a instal·lar.
+6. Aplica procediments per l'automatització d'instal·lacions.
+7. Aplica preferències en la configuració de l'entorn personal.
+8. Actualitza el sistema operatiu en xarxa.
+9. Comprova la connectivitat del servidor amb els equips client.
+
+2. Gestiona usuaris i grups de sistemes operatius en xarxa, interpretant especificacions i aplicant eines del sistema
+
+**Criteris d'avaluació**
+
+1. Configura i gestiona comptes d'usuari.
+2. Configura i gestiona perfils d'usuari.
+3. Configura i gestiona comptes d'equip.
+4. Distingeix el propòsit dels grups, els seus tipus i àmbits.
+5. Configura i gestiona grups.
+6. Gestiona la pertinença d'usuaris a grups.
+7. Identifica les característiques d'usuaris i grups predeterminats i especials.
+8. Planifica perfils mòbils d'usuaris.
+9. Utilitza eines per a l'administració d'usuaris i grups, incloses en el sistema operatiu en xarxa.
+
+3. Realitza tasques de gestió sobre dominis identificant necessitats i aplicant eines d'administració de dominis.
+
+**Criteris d'avaluació**
+
+1. Identifica la funció del servei de directori, els seus elements i nomenclatura.
+2. Reconeix el concepte de domini i les seves funcions.
+3. Estableix relacions de confiança entre dominis.
+4. Realitza la instal·lació del servei de directori.
+5. Realitza la configuració bàsica del servei de directori.
+6. Utilitza agrupacions d'elements per a la creació de models administratius.
+7. Analitza l'estructura del servei de directori.
+8. Utilitza eines d'administració de dominis.
+
+4. Gestiona els recursos compartits del sistema, interpretant especificacions i determinant nivells de seguretat.
+
+**Criteris d'avaluació**
+
+1. Reconeix la diferència entre permís i dret.
+2. Identifica els recursos del sistema que es compartiran i en quines condicions.
+3. Assigna permisos als recursos del sistema que es compartiran.
+4. Comparteix impressores en xarxa.
+5. Utilitza l'entorn gràfic per compartir recursos.
+6. Estableix nivells de seguretat per controlar l'accés del client als recursos compartits en xarxa.
+7. Treballa en grup per comprovar l'accés als recursos compartits del sistema.
+
+5. Realitza tasques de monitoratge i ús del sistema operatiu en xarxa, descrivint les eines utilitzades i identificant les principals incidències.
+
+**Criteris d'avaluació**
+
+1. Descriu les característiques dels programes de monitoratge.
+2. Identifica problemes de rendiment en els dispositius d'emmagatzematge.
+3. Observa l'activitat del sistema operatiu en xarxa a partir de les traces generades pel propi sistema.
+4. Realitza tasques de manteniment del programari instal·lat en el sistema.
+5. Executa operacions per a l'automatització de tasques del sistema.
+6. Interpretat la informació de configuració del sistema operatiu en xarxa.
+
+6. Realitza tasques d'integració de sistemes operatius lliures i propietaris, descrivint els avantatges de compartir recursos i instal·lant programari específic.
+
+**Criteris d'avaluació**
+
+1. Identifica la necessitat de compartir recursos en xarxa entre diferents sistemes operatius.
+2. Comprova la connectivitat de la xarxa en un escenari heterogeni.
+3. Descriu la funcionalitat dels serveis que permeten compartir recursos en xarxa.
+4. Instal·la i configura serveis per compartir recursos en xarxa.
+5. Accedeix a sistemes d'arxius en xarxa des d'equips amb diferents sistemes operatius.
+6. Accedeix a impressores des d'equips amb diferents sistemes operatius.
+7. Treballa en grup.
+8. Estableix nivells de seguretat per controlar l'accés de l'usuari als recursos compartits en xarxa.
+9. Comprova el funcionament dels serveis instal·lats.
+
+### Continguts del mòdul professional
+
+1. Instal·lació de sistemes operatius en xarxa:
+    1. Comprovació dels requisits tècnics. Preparació de la instal·lació.
+    2. Particions i sistema d'arxius. Components. Mètodes.
+    3. Automatització.
+    4. Elaboració de la documentació sobre la instal·lació i incidències.
+    5. Instal·lació de sistemes operatius en xarxa en màquines virtuals.
+
+2.Gestió d'usuaris i grups:
+    1.Compte d'usuari i grup.
+    2. Tipus de perfils d'usuari. Perfils mòbils.
+    3. Gestió de grups. Tipus i àmbits. Propietats. Usuaris i grups predeterminats i especials del sistema.
+    4. Comptes d'usuari. Plantilles.
+
+3. Gestió de dominis:
+    1. Servei de directori i domini. Elements del servei de directori. Funcions del domini.
+    2. Instal·lació d'un servei de directori. Configuració bàsica.
+    3. Creació de dominis. Objectes que administra un domini: usuaris globals, grups, equips entre altres. Creació de relacions de confiança entre dominis. Creació d'agrupacions d'elements: nomenclatura.
+
+4. Gestió dels recursos compartits en xarxa:
+    1. Permisos i drets.
+    2. Compartir arxius i directoris a través de la xarxa.
+    3. Configuració de permisos de recurs compartit.
+    4. Configuració d'impressores compartides en xarxa.
+
+5. Monitoratge i ús del sistema operatiu en xarxa:
+    1. Arrencada del sistema operatiu en xarxa
+    2. Descripció de les fallades produïdes en l'arrencada: possibles solucions.
+    3. Utilització d'eines per al control i seguiment del rendiment del sistema operatiu en xarxa.
+    4. Gestió dels processos relatius als serveis del sistema operatiu en xarxa.
+
+6. Integració de sistemes operatius en xarxa lliures i propietaris:
+    1. Descripció d'escenaris heterogenis.
+    2. Instal·lació, configuració i ús de serveis de xarxa per a compartir recursos.
+    3. Configuració de recursos compartits en xarxa.
+    4. Seguretat dels recursos compartits en xarxa.
 
 ## ESPAIS, EQUIPAMENTS I RECURSOS DEL MP
 
